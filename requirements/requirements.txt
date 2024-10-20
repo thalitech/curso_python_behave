@@ -1,0 +1,10 @@
+## Dependencias a serem instaladas no projeto
+
+nose
+behave
+selenium
+behave-html-formatter
+allure-behave
+faker
+pyautogui
+pytz
